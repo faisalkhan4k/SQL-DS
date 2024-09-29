@@ -9,3 +9,4 @@
 <li>Concurrency</li>
 <li>Independent of Application</li>
 <li>Security</li>
+<img src='https://d2jdgazzki9vjm.cloudfront.net/sqlpages/images/types-of-sql-commands.png></immg>
